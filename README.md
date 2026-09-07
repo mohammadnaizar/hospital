@@ -2,7 +2,7 @@
 
 **Module:** CIT300 – Data Structures and Algorithms
 **Assignment:** Individual Mid Assignment
-**Student:** Asath (Index: 23DA2-0743)
+**Student:** naizar (Index: 23DA2-1052)
 **Language:** Java (no external libraries — all data structures implemented manually)
 
 ## Overview
